@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: HIMUServer
+Version: 2.0
+Summary: Server-side library for HyperIMU Android app
+Home-page: https://ianovir.com
+Author: ianovir
+Author-email: info@ianovir.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python

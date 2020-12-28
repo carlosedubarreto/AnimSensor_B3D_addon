@@ -1,0 +1,5 @@
+./androidSensor123.py
+HIMUServer.egg-info/PKG-INFO
+HIMUServer.egg-info/SOURCES.txt
+HIMUServer.egg-info/dependency_links.txt
+HIMUServer.egg-info/top_level.txt
